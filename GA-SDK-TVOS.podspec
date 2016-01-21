@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GA-SDK-TVOS"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.homepage         = "https://github.com/GameAnalytics/GA-SDK-TVOS"
   s.author           = { "GameAnalytics" => "sdk@gameanalytics.com" }
   s.summary          = "GameAnalytics SDK for tvOS"
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.library = 'z', 'sqlite3'
 
-  s.platform = :ios, '6.0'
+  s.platform = :tvos, '9.0'
   s.requires_arc = true
 
   s.license  = {
