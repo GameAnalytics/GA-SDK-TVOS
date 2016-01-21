@@ -1,5 +1,5 @@
-framework module GameAnalytics {
-    umbrella header "GameAnalytics.h"
+framework module GameAnalyticsTVOS {
+    umbrella header "GameAnalyticsTVOS.h"
 
     export *
     module * { export * }

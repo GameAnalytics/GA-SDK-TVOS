@@ -5,12 +5,12 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>Bundle name</key>
-	<string>GameAnalytics</string>
+	<string>GameAnalyticsTVOS</string>
 	<key>CFBundleExecutable</key>
-	<string>GameAnalytics</string>
+	<string>GameAnalyticsTVOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.gameanalytics.sdk.ios</string>
+	<string>com.gameanalytics.sdk.tvos</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.1.0</string>
+	<string>0.1.0</string>
 </dict>
 </plist>
