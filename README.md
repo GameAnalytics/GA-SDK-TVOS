@@ -12,6 +12,10 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 
 Changelog
 ---------
+**0.2.0**
+* feature for using a custom user id
+* fix testflight issue with user id generation
+
 **0.1.0**
 * initial release of the tvOS SDK
 
