@@ -16,6 +16,7 @@ Changelog
 * feature for using a custom user id
 * fix testflight issue with user id generation
 
-**0.1.0**
+**0.1.1**
+=======
 * initial release of the tvOS SDK
 
