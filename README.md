@@ -17,6 +17,5 @@ Changelog
 * fix testflight issue with user id generation
 
 **0.1.1**
-=======
 * initial release of the tvOS SDK
 
