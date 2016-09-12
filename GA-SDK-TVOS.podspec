@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GA-SDK-TVOS"
-  s.version          = "0.2.3"
+  s.version          = "0.2.4"
   s.homepage         = "https://github.com/GameAnalytics/GA-SDK-TVOS"
   s.author           = { "GameAnalytics" => "sdk@gameanalytics.com" }
   s.summary          = "GameAnalytics SDK for tvOS"
@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
 
   s.source           = { :git => "https://github.com/GameAnalytics/GA-SDK-TVOS.git", :tag => "#{s.version}" }
 
+  s.source_files    = "GameAnalyticsTVOS.framework/**/*.{h,m}"
   s.preserve_paths      = "GameAnalyticsTVOS.framework"
   s.public_header_files = "GameAnalyticsTVOS.framework/**/*.h"
   s.frameworks = 'AdSupport', 'SystemConfiguration'

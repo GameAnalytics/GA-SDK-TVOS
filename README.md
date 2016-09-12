@@ -13,6 +13,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 
 Changelog
 ---------
+**0.2.4**
+* fixed user_id tracking for iOS 10
+
 **0.2.3**
 * fixed bug for client timestamp handling and session length in certain edge cases
 
