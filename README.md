@@ -6,13 +6,17 @@ GameAnalytics native tvOS SDK.
 <!--
 >:warning:  
 > The tvOS SDK is currently in BETA.  
-> The final version will be 1.0.0. 
+> The final version will be 1.0.0.
 -->
 <br>
 Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 
 Changelog
 ---------
+<!--(CHANGELOG_TOP)-->
+**0.2.5**
+* possible to set custom dimensions before initialise
+
 **0.2.4**
 * fixed user_id tracking for iOS 10
 
@@ -28,4 +32,3 @@ Changelog
 
 **0.1.1**
 * initial release of the tvOS SDK
-
