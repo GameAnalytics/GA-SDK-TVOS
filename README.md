@@ -8,7 +8,7 @@ GameAnalytics native tvOS SDK.
 > The tvOS SDK is currently in BETA.  
 > The final version will be 1.0.0.
 -->
-<br>
+
 Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 
 Changelog
