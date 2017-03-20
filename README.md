@@ -14,6 +14,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**0.2.7**
+* session length precision improvement
+
 **0.2.6**
 * added bundle_id, app version and app build tracking
 
