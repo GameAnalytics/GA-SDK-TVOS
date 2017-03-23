@@ -14,6 +14,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-TVOS/wiki).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.8**
+* bug fix for end session when using manual session handling
+
 **0.2.7**
 * session length precision improvement
 
