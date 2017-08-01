@@ -1,3 +1,7 @@
+[![CocoaPods](https://img.shields.io/cocoapods/v/GA-SDK-TVOS.svg)](https://cocoapods.org/pods/GA-SDK-TVOS)
+[![CocoaPods](https://img.shields.io/cocoapods/dt/GA-SDK-TVOS.svg?label=pod%20downloads)](https://cocoapods.org/pods/GA-SDK-TVOS)
+
+
 GA-SDK-TVOS
 ==========
 
