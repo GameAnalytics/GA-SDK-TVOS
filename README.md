@@ -18,6 +18,10 @@ Documentation can be found [here](https://gameanalytics.com/docs/tvos-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.9**
+* fixed not allowing to add events when session is not started
+* fixed session length bug
+
 **2.2.8**
 * bug fix for end session when using manual session handling
 
