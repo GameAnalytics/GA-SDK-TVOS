@@ -18,6 +18,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/tvos-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.2.10**
+* added custom dimensions to design and error events
+
 **2.2.9**
 * fixed not allowing to add events when session is not started
 * fixed session length bug
