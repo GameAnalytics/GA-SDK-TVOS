@@ -11,6 +11,6 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.gameanalytics.sdk.tvos</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2.10</string>
+	<string>3.0.0</string>
 </dict>
 </plist>
