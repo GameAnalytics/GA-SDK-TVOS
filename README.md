@@ -18,6 +18,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/tvos-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.2**
+* fixed some validator bugs
+
 **3.0.1**
 * small fixes to event annotations
 
