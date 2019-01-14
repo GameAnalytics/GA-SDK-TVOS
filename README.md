@@ -18,6 +18,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/tvos-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.2.0**
+* added enable/disable event submission function
+
 **3.1.2**
 * error reporting fixes
 
