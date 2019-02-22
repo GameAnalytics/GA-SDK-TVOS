@@ -15,6 +15,8 @@ GameAnalytics native tvOS SDK.
 
 Documentation can be found [here](https://gameanalytics.com/docs/tvos-sdk).
 
+If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
+
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
