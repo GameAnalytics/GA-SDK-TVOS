@@ -23,9 +23,6 @@ Changelog
 **4.1.4**
 * added better internal error reporting
 
-**4.1.4**
-* added better internal error reporting
-
 **4.1.3**
 * added session_num to init request
 
