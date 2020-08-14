@@ -23,9 +23,6 @@ Changelog
 **4.3.0**
 * updated user identifier flow to prepare for iOS 14 IDFA changes
 
-**4.2.2**
-* made AppTrackingTransparency framework optional
-
 **4.2.1**
 * added godot to version validator
 
