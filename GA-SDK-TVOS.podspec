@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GA-SDK-TVOS"
-  s.version          = "4.3.1"
+  s.version          = "4.4.0"
   s.homepage         = "https://github.com/GameAnalytics/GA-SDK-TVOS"
   s.author           = { "GameAnalytics" => "sdk@gameanalytics.com" }
   s.summary          = "GameAnalytics SDK for tvOS"
@@ -13,6 +13,8 @@ Pod::Spec.new do |s|
   s.public_header_files = "GameAnalyticsTVOS.framework/**/*.h"
   s.frameworks = 'AdSupport', 'SystemConfiguration'
   s.vendored_frameworks = 'GameAnalyticsTVOS.framework'
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   s.library = 'z', 'sqlite3', 'c++'
 
