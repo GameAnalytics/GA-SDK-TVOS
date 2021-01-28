@@ -21,7 +21,7 @@ Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
 **4.4.7**
-* updated validator to client ts
+* updated client ts validator
 
 **4.4.6**
 * removed memory info from automatic crash reports
