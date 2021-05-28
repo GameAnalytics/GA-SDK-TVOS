@@ -20,6 +20,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.4.10**
+* small corrections
+
 **4.4.8**
 * added idfa consent field to events
 
