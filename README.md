@@ -20,6 +20,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.4.12**
+* added missing architectures of the libraries
+
 **4.4.11**
 * fixed crash bug
 
