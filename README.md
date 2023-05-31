@@ -24,6 +24,10 @@ Changelog
 * added optional local event caching for disabled submission
 * support for app open ads
 
+**4.8.1**
+* added optional local event caching for disabled submission
+* support for app open ads
+
 **4.8.0**
 * deprecated support for armv7 and i386
 * added new fps health event
