@@ -20,10 +20,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
-**4.10.3**
-* added Support for Xcode 15.4
-* fixed crash at launch caused by va_list wrong usage
-* improved logging
+**4.11.0**
+* added support for Xcode 16
+* added privacy domain for privacy manifest
+
 
 **4.10.1**
 * consent status is now tracked correctly
