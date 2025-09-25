@@ -20,17 +20,5 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
-**4.11.0**
-* added support for Xcode 16
-* added privacy domain for privacy manifest
 
-
-**4.10.1**
-* consent status is now tracked correctly
-* bug fix for fps tracking
-
-**4.10.0**
-* added privacy manifest:fixed app boot time measurement
-
-**4.9.0**
-* added optional session performance metrics collection:added optional app boot-time metric collection
+For detailed release notes and version history, please refer to the [CHANGELOG.md](./CHANGELOG.md) file.
