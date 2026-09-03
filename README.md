@@ -7,6 +7,11 @@ GA-SDK-TVOS
 
 GameAnalytics native tvOS SDK.
 
+> [!IMPORTANT]
+> **tvOS is now shipped from [GA-SDK-IOS](https://github.com/GameAnalytics/GA-SDK-IOS).**
+> The `GameAnalytics.xcframework` published there supports both iOS and tvOS, so use that
+> repository for new integrations and updates. This repository is kept for reference only.
+
 <!--
 >:warning:  
 > The tvOS SDK is currently in BETA.  
